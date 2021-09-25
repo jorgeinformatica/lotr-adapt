@@ -10,8 +10,8 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
-	<artifactId>appDados</artifactId>
-	<name>appDados</name>
+	<artifactId>dadosApp</artifactId>
+	<name>dadosApp</name>
 	<packaging>pom</packaging>
 
 	<properties>
@@ -23,17 +23,17 @@
 		<dependencies>
 			<dependency>
 				<groupId>com.lotr</groupId>
-				<artifactId>application</artifactId>
+				<artifactId>dadosApplication</artifactId>
 				<version>1.0.0</version>
 			</dependency>
 			<dependency>
 				<groupId>com.lotr</groupId>
-				<artifactId>dto</artifactId>
+				<artifactId>dadosDto</artifactId>
 				<version>1.0.0</version>
 			</dependency>
 			<dependency>
 				<groupId>com.lotr</groupId>
-				<artifactId>business</artifactId>
+				<artifactId>dadosBusiness</artifactId>
 				<version>1.0.0</version>
 			</dependency>
 			<dependency>

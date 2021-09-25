@@ -1,6 +1,7 @@
 package lotr.application.transformer.resultado;
 
-import lotr.apidados.response.Resultados;
+import com.lotr.apidados.response.Resultados;
+
 import lotr.dto.response.ResultadosDto;
 
 public interface ResultadosTransformer {

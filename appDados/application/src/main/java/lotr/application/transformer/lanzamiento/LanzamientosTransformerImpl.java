@@ -3,7 +3,8 @@ package lotr.application.transformer.lanzamiento;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import lotr.apidados.request.Lanzamientos;
+import com.lotr.apidados.request.Lanzamientos;
+
 import lotr.dto.request.LanzamientosDto;
 
 

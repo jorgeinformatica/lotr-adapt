@@ -1,10 +1,12 @@
-package lotr.apidados.api;
+package com.lotr.apidados.api;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
-import lotr.apidados.request.Lanzamientos;
-import lotr.apidados.response.Resultados;
+
+import com.lotr.apidados.request.Lanzamientos;
+import com.lotr.apidados.response.Resultados;
+
 
 /**
  * The Interface ApiDados.

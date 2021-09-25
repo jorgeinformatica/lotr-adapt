@@ -3,7 +3,8 @@ package lotr.application.transformer.resultado;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import lotr.apidados.response.Resultados;
+import com.lotr.apidados.response.Resultados;
+
 import lotr.dto.response.ResultadosDto;
 
 @Component

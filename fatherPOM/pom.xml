@@ -9,6 +9,7 @@
 		<version>2.5.2</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
+	
 	<groupId>com.lotr</groupId>
 	<artifactId>fatherPOM</artifactId>
 	<version>1.0.0</version>

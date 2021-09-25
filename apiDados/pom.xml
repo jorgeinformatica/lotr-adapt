@@ -16,7 +16,7 @@
 	<properties>
 		<libreriaEnums.version>1.0.0</libreriaEnums.version>
 	</properties>
-	
+
 	<dependencies>
 
 		<dependency>
@@ -26,4 +26,5 @@
 		</dependency>
 
 	</dependencies>
+
 </project>

@@ -2,7 +2,8 @@ package lotr.application.transformer.lanzamiento;
 
 import java.util.List;
 
-import lotr.apidados.request.Lanzamiento;
+import com.lotr.apidados.request.Lanzamiento;
+
 import lotr.dto.request.LanzamientoDto;
 
 public interface LanzamientoTransformer {

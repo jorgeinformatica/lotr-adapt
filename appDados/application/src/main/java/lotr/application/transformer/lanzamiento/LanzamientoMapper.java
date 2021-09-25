@@ -4,7 +4,8 @@ import java.util.List;
 
 import org.mapstruct.Mapper;
 
-import lotr.apidados.request.Lanzamiento;
+import com.lotr.apidados.request.Lanzamiento;
+
 import lotr.dto.request.LanzamientoDto;
 
 @Mapper(componentModel = "spring")

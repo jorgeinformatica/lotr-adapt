@@ -2,7 +2,8 @@ package lotr.application.transformer.lanzamiento;
 
 import org.mapstruct.Mapper;
 
-import lotr.apidados.request.Lanzamientos;
+import com.lotr.apidados.request.Lanzamientos;
+
 import lotr.dto.request.LanzamientosDto;
 
 

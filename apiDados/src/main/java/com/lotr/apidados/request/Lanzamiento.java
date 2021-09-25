@@ -1,4 +1,4 @@
-package lotr.apidados.request;
+package com.lotr.apidados.request;
 
 import java.io.Serializable;
 

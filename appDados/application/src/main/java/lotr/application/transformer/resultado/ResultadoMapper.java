@@ -4,7 +4,8 @@ import java.util.List;
 
 import org.mapstruct.Mapper;
 
-import lotr.apidados.response.Resultado;
+import com.lotr.apidados.response.Resultado;
+
 import lotr.dto.response.ResultadoDto;
 
 @Mapper(componentModel = "spring")

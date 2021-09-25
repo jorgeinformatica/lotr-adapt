@@ -1,4 +1,4 @@
-package lotr.apidados.response;
+package com.lotr.apidados.response;
 
 import java.io.Serializable;
 import java.util.List;

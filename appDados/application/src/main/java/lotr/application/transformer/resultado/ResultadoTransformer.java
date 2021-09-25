@@ -2,7 +2,8 @@ package lotr.application.transformer.resultado;
 
 import java.util.List;
 
-import lotr.apidados.response.Resultado;
+import com.lotr.apidados.response.Resultado;
+
 import lotr.dto.response.ResultadoDto;
 
 
