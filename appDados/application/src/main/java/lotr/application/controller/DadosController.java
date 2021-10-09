@@ -25,7 +25,7 @@ public class DadosController {
 	private final ResultadosTransformer transformerResultados;
 	private final CalcularTiradas serviceCalcularTiradas;
 	
-	@PostMapping(value = "/Lanzamientos")
+	@PostMapping(value = "lotr/Lanzamientos")
 	public ResponseEntity<Resultados> lanzamientos(@RequestBody Lanzamientos lanzamientos) {
 		return new ResponseEntity<>(
 				transformerResultados

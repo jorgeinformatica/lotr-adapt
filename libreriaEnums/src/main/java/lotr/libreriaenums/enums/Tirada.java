@@ -7,10 +7,10 @@ public enum Tirada {
 
 	/** La tirada d100. */
 	TIRADA_D100(1, 100, false),
-	/** La tirada abierta. */
+	/** La tirada d100 abierta. */
 	TIRADA_ABIERTA(1, 100, true),
 	/** La tirada d10. */
-	TIRADA_D10(1, 100, false);
+	TIRADA_D10(1, 10, false);
 
 	/** El minimo. */
 	private final int minimo;

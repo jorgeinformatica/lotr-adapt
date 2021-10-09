@@ -7,4 +7,4 @@ server:
   servlet:
     context-path: /
 springdoc.swagger-ui:
-  path: /open.html
+  path: /swagger-ui-open.html
